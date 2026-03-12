@@ -1,3 +1,5 @@
+Machine Learning | Fraud Detection | Python
+
 # Credit Card Fraud Detection
 
 This project demonstrates a basic machine learning model for detecting fraudulent credit card transactions.
@@ -18,5 +20,6 @@ This project demonstrates a basic machine learning model for detecting fraudulen
 5. Visualize results with a confusion matrix
 
 ## Goal
+
 
 Financial institutions use machine learning models to detect suspicious transactions and reduce fraud risk. This project demonstrates a simplified version of such a system.
